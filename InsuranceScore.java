@@ -7,6 +7,7 @@ import com.mongodb.client.MongoDatabase;
 import com.mongodb.client.MongoCollection;
 import org.bson.Document;
 import java.util.Iterator;
+import java.math.BigInteger;
 
 //Connect to database
 public class DatabaseConnection {
