@@ -9,7 +9,7 @@ import org.bson.Document;
 import java.util.Iterator;
 import java.math.BigInteger;
 
-//Connect to databases
+//Connect to databases..
 public class DatabaseConnection {
 	public static void main( String args[] ) {  
 	      
